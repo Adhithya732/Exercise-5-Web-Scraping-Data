@@ -1,8 +1,8 @@
 # Exercise-5-Web-Scraping-Data
 
 ~~~
-Name : W Allen Johnston Ozario  
-Reg.No : 21222411004  
+Name : ADHITHYA A  
+Reg.No : 212222220004
 ~~~
 
 ## Aim:
